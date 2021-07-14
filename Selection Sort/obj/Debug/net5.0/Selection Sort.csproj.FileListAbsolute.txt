@@ -1,0 +1,16 @@
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\obj\Debug\net5.0\Selection Sort.csproj.AssemblyReference.cache
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\obj\Debug\net5.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\obj\Debug\net5.0\Selection Sort.AssemblyInfoInputs.cache
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\obj\Debug\net5.0\Selection Sort.AssemblyInfo.cs
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\obj\Debug\net5.0\Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\bin\Debug\net5.0\Selection Sort.exe
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\bin\Debug\net5.0\Selection Sort.deps.json
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\bin\Debug\net5.0\Selection Sort.runtimeconfig.json
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\bin\Debug\net5.0\Selection Sort.runtimeconfig.dev.json
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\bin\Debug\net5.0\Selection Sort.dll
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\bin\Debug\net5.0\ref\Selection Sort.dll
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\bin\Debug\net5.0\Selection Sort.pdb
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\obj\Debug\net5.0\Selection Sort.dll
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\obj\Debug\net5.0\ref\Selection Sort.dll
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\obj\Debug\net5.0\Selection Sort.pdb
+C:\Users\RK5\Desktop\Practice\C#\Selection Sort\obj\Debug\net5.0\Selection Sort.genruntimeconfig.cache
